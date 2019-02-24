@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
 Generate header file with macros defining MicroPython version info.
 

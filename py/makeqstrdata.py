@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
 Process raw qstr file and output qstr data with length, hash and data bytes.
 

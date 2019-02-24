@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
 This script processes the output from the C preprocessor and extracts all
 qstr. Each qstr is transformed into a qstr definition of the form 'Q(...)'.
